@@ -1,6 +1,6 @@
 # Four Bash Scripts
 
-These are the four small bash scripts I wrote during operating systems laboratories at the Gdańsk University of Technology
+These are the four small bash scripts I wrote during operating systems laboratories at the Gdańsk University of Technology.
 
 ## Script 1
 This script calculates the number of successful download for different Gnu/Linux distributions based on two log files.
